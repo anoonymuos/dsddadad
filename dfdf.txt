@@ -1,0 +1,3 @@
+for i,v in pairs(game.workspace.Enemies:GetChildren()) do
+    v.Humanoid.Health = 0
+end
